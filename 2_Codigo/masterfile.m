@@ -40,7 +40,7 @@ k = 4;
 n = [200 500 1000 3000];
 
 % Fijar número de simulaciones
-S = 100;
+S = 1000;
 
 % Ejecutar script. Generar bases de datos simulados (cantidad: 3x4x1000 bases)
 simulacion_generar
